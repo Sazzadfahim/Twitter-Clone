@@ -1,0 +1,224 @@
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\appsettings.json
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.exe
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.deps.json
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.runtimeconfig.json
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.pdb
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Snappier.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.csproj.AssemblyReference.cache
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.AssemblyInfoInputs.cache
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.AssemblyInfo.cs
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.csproj.CoreCompileInputs.cache
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\scopedcss\bundle\SearchServices.styles.css
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.csproj.CopyComplete
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\refint\SearchServices.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.pdb
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.genruntimeconfig.cache
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\obj\Debug\net6.0\ref\SearchServices.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\Users\Moonwar\Desktop\Another New\Twitter\SearchServices\bin\Debug\net6.0\SerilogTimings.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\appsettings.json
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.exe
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.deps.json
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.runtimeconfig.json
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.pdb
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\SerilogTimings.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Snappier.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.csproj.AssemblyReference.cache
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.AssemblyInfoInputs.cache
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.AssemblyInfo.cs
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.csproj.CoreCompileInputs.cache
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\scopedcss\bundle\SearchServices.styles.css
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.csproj.CopyComplete
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\refint\SearchServices.dll
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.pdb
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.genruntimeconfig.cache
+C:\Users\Moonwar\Desktop\signalR changed\Another New\Twitter\SearchServices\obj\Debug\net6.0\ref\SearchServices.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\appsettings.json
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.exe
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.deps.json
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.runtimeconfig.json
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\SearchServices.pdb
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Serilog.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\SerilogTimings.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Snappier.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.csproj.AssemblyReference.cache
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.AssemblyInfoInputs.cache
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.AssemblyInfo.cs
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.csproj.CoreCompileInputs.cache
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\staticwebassets\msbuild.SearchServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\staticwebassets\msbuild.build.SearchServices.props
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SearchServices.props
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SearchServices.props
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\scopedcss\bundle\SearchServices.styles.css
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.csproj.CopyComplete
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\refint\SearchServices.dll
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.pdb
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\SearchServices.genruntimeconfig.cache
+C:\Users\Moonwar\Desktop\signalR changed\dopamine\Twitter\SearchServices\obj\Debug\net6.0\ref\SearchServices.dll

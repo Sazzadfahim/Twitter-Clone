@@ -1,0 +1,7 @@
+C:\Users\Moonwar\Desktop\Another New\Twitter\RegisterUser\obj\Release\net6.0\RegisterUser.csproj.AssemblyReference.cache
+C:\Users\Moonwar\Desktop\Another New\Twitter\RegisterUser\obj\Release\net6.0\RegisterUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moonwar\Desktop\Another New\Twitter\RegisterUser\obj\Release\net6.0\RegisterUser.AssemblyInfoInputs.cache
+C:\Users\Moonwar\Desktop\Another New\Twitter\RegisterUser\obj\Release\net6.0\RegisterUser.AssemblyInfo.cs
+C:\Users\Moonwar\Desktop\Another New\Twitter\RegisterUser\obj\Release\net6.0\RegisterUser.csproj.CoreCompileInputs.cache
+C:\Users\Moonwar\Desktop\Another New\Twitter\RegisterUser\obj\Release\net6.0\RegisterUser.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Moonwar\Desktop\Another New\Twitter\RegisterUser\obj\Release\net6.0\RegisterUser.MvcApplicationPartsAssemblyInfo.cache

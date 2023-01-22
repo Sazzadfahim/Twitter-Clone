@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l8sNCe2dZnd9CJCLjAkxFjU88zGi95LJLOd1ghSGmnU=",
+  "Source": "TweetRetweetCommentLike",
+  "BasePath": "_content/TweetRetweetCommentLike",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
